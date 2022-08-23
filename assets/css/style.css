@@ -6,8 +6,28 @@ body {
     background: url("https://cdn.shopify.com/s/files/1/1722/4515/products/GonzOllieOside1985_530x@2x.jpg?v=1575595338") no-repeat scroll right top;
 }
 
+nav {
+    margin: 0px 0px 30px 30px;
+}
+
+nav a {
+    border: 1px solid green;
+    margin: 5px;
+    padding: 2px;
+    height: 6px;
+    width: 10px;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: blue;
+}
+
 .poem {
     border: 1px solid black;
+    background-color: lightblue;
     padding: 5px;
     height: 700px;
     max-width: 500px;
@@ -16,6 +36,8 @@ body {
 .poem pre {
     font-family:'Times New Roman', Times, serif;
     font-size: 24px;
+    background-color: rgba(0, 126, 0, 0.3);
+    margin: 25px;
 }
 
 
