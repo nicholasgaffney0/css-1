@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+body {
+    background: url("https://cdn.shopify.com/s/files/1/1722/4515/products/GonzOllieOside1985_530x@2x.jpg?v=1575595338") no-repeat scroll right top;
+}
+
+.poem {
+    border: 1px solid black;
+    padding: 5px;
+    height: 700px;
+    max-width: 500px;
+}
+
+.poem pre {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+
+
+/*margin-right: 1070px;*/
